@@ -1,4 +1,5 @@
 # helloWorld
-helloworld
-print("hello world again")
+name = ["john","amy"]
+print(name[0]
+
 
